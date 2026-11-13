@@ -1,0 +1,23 @@
+#Project Metadata
+repository: F5-Pildora-TDD
+
+owner: github-galindoaidev
+
+provider: github
+
+domain: josegalindo-aidev
+
+visibility: public
+
+status: active
+
+language: python
+
+created: 2026-11-10
+
+updated: 2026-11-10
+
+tags:
+  - pildora-TTD
+
+#git remote add origin git@{owner}:{domain}/{repository}.git
